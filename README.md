@@ -40,8 +40,12 @@ npm run build --report
   1.`content-box`:在长宽外画`padding`和`border`,实际宽度和高度就为长宽；    
   2.`border-box`：在长宽内画`padding`和`border`，实际宽度和高度需要减去`padding`和`border`;  
   3.`inhert`:继承父样式。
-- translate3d（-100%,y,z):相对位置怎么理解？  
+- translate3d（-100%,y,z):-100%怎么理解？  
   目标对象相对于需要移动的位置处于一个什么方向，多远的距离。
+- ref属性：
+  1.在DOM上的`ref`，`this.$refs.ref`获取的是具有这个ref属性的dom节点；  
+  2.在组件上的`ref`，`this.$refs.ref`获取的是组件的实例。
+
 
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
