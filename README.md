@@ -17,5 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+## epubjs的核心工作原理
+<img src="https://github.com/pigPEQ/Constant-Study/tree/master/imgs/epubjs.png">
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
