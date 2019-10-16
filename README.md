@@ -18,6 +18,6 @@ npm run build
 npm run build --report
 ```
 ## epubjs的核心工作原理
-<img src="https://github.com/pigPEQ/Constant-Study/tree/master/imgs/epubjs.png">
+<img src="imgs/epubjs.png">
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
