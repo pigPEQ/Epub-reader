@@ -42,7 +42,7 @@ npm run build --report
   3.`inhert`:继承父样式。
 - translate3d（-100%,y,z):-100%怎么理解？  
   目标对象相对于需要移动的位置处于一个什么方向，多远的距离。
-- ref属性：
+- ref属性：  
   1.在DOM上的`ref`，`this.$refs.ref`获取的是具有这个ref属性的dom节点；  
   2.在组件上的`ref`，`this.$refs.ref`获取的是组件的实例。
 
