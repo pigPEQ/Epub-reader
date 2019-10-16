@@ -25,6 +25,8 @@ npm run build --report
 - get到解决eslint问题报错的方法，积累一下。
   - **局部生效:** `/*eslint-disable xxxx*/`。
   - **全局生效:** eslint配置文件中新增一个rule `‘xxxx':'off’`后重启项目。
+- vue文件模板设置，积累一下。 
+  首选项-代码片段-vue.json中设置
 - `reset.scss`是为了消除不同浏览器默认样式的不一致性；
   `global.scss`是规定了整个项目的公共样式、公共方法、公共参数等；
   在`global.scss`中有一个公共的字体转换方法`px2rem`，实现px与rem之间的相互转换，`rem= px / fontSize`。
