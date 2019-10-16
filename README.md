@@ -30,5 +30,6 @@ npm run build --report
 - `reset.scss`是为了消除不同浏览器默认样式的不一致性；
   `global.scss`是规定了整个项目的公共样式、公共方法、公共参数等；
   在`global.scss`中有一个公共的字体转换方法`px2rem`，实现px与rem之间的相互转换，`rem= px / fontSize`。
+- 电子书解析与渲染：1.生成`book`对象 2.通过`book.renderTo`方法生成redition 3.`rendition.display`方法实现渲染。
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
