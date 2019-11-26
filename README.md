@@ -1,6 +1,4 @@
-# ebook-demo 
-
-[!test](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=recommend&style=flat-square.svg)
+# ebook-demo ![](https://img.shields.io/badge/epubjs-v0.3.85-brightgreen)![](https://img.shields.io/badge/vue--cli-v2.5.2-yellow)![](https://img.shields.io/badge/vue--router-v3.0.1-red)![](https://img.shields.io/badge/node--sass-4.12.0-blue)![](https://img.shields.io/badge/code--coverage-95%25-red)![](https://img.shields.io/badge/license-MIT-blueviolet)
 
 ## Build Setup
 
@@ -37,7 +35,5 @@ npm run build --report
   - **主题设置：** 定义一组主题数组，数组中包含主题名称与样式，使用`themes`对象的`register`方法遍历主题数组去注册这些主题，调用时使用`themes.select`方法，向其传入主题名称作为参数；  
   - **进度条：** 需求分析之后需要异步实现，通过`epubjs`的钩子函数获取`book`的`locations`对象，`book.ready`返回一个`promise`对象，调用`then`方法返回一个`locations`对象，然后通过`locations`对象的`cfiFromPercentage`方法实现进度条数值转换为`location`,再用`rendition`对象的`display`方法解析location实现具体定位。  
   - **目录：** `book`的`navigation`对象实现，遍历`navigation.toc`展示目录。
-
-
-
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
