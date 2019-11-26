@@ -1,7 +1,6 @@
-# ebook-demo [![e-book](https://img.shields.io/badge/%3Ctest%3E-%3CMESSAGE%3E-%3Cred%3E.svg)]()
+# ebook-demo 
 
-
-> A Vue.js project
+[](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=recommend&style=flat-square.svg)
 
 ## Build Setup
 
