@@ -1,7 +1,7 @@
 # *ebook-demo*   
 ![](https://img.shields.io/badge/epubjs-v0.3.85-brightgreen)![](https://img.shields.io/badge/vue--cli-v2.5.2-yellow)![](https://img.shields.io/badge/vue--router-v3.0.1-red)![](https://img.shields.io/badge/node--sass-4.12.0-blue)![](https://img.shields.io/badge/code--coverage-95%25-red)![](https://img.shields.io/badge/license-MIT-blueviolet)
 
-## Build Setup
+## *Build Setup*
 
 ``` bash
 # install dependencies
@@ -16,7 +16,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-## epubjs的核心工作原理
+## *epubjs的核心工作原理*
 <img src="imgs/epubjs.png">
 
 ## 踩坑与小结
