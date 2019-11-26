@@ -1,6 +1,6 @@
 # ebook-demo 
 
-[](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=recommend&style=flat-square.svg)
+[!test](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=recommend&style=flat-square.svg)
 
 ## Build Setup
 
