@@ -1,4 +1,5 @@
-# ebook-demo ![](https://img.shields.io/badge/epubjs-v0.3.85-brightgreen)![](https://img.shields.io/badge/vue--cli-v2.5.2-yellow)![](https://img.shields.io/badge/vue--router-v3.0.1-red)![](https://img.shields.io/badge/node--sass-4.12.0-blue)![](https://img.shields.io/badge/code--coverage-95%25-red)![](https://img.shields.io/badge/license-MIT-blueviolet)
+# *ebook-demo*   
+![](https://img.shields.io/badge/epubjs-v0.3.85-brightgreen)![](https://img.shields.io/badge/vue--cli-v2.5.2-yellow)![](https://img.shields.io/badge/vue--router-v3.0.1-red)![](https://img.shields.io/badge/node--sass-4.12.0-blue)![](https://img.shields.io/badge/code--coverage-95%25-red)![](https://img.shields.io/badge/license-MIT-blueviolet)
 
 ## Build Setup
 
